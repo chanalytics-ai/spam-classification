@@ -6,4 +6,4 @@ I placed 2nd in the private competition with a 98% accuracy.
 
 [Kaggle Competition](https://www.kaggle.com/c/865-bd-cup-event-3-sec-1/leaderboard)
 
-[Medium Article] (https://chanalytics-ai.medium.com/text-classification-with-simpletransformers-f8912372531b)
+[Medium Article](https://chanalytics-ai.medium.com/text-classification-with-simpletransformers-f8912372531b)
